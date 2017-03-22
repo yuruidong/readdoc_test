@@ -82,7 +82,8 @@ banner说明
 		    "dispTime": "9999"
 		}
 
-    
+.. image:: /img/test1.jpg
+
 插屏说明
 ~~~~~~~~~
 
